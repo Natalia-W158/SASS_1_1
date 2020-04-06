@@ -1,0 +1,42 @@
+body {
+  margin: 0;
+}
+
+.box {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  height: 50vh;
+}
+
+.box .lab {
+  margin: auto 0;
+}
+
+.box .la-twitter {
+  color: #1da1f2;
+}
+
+.box .la-facebook-f {
+  color: #3b5998;
+}
+
+.box .la-vimeo {
+  color: #1ab7ea;
+}
+
+.box .la-airbnb {
+  color: #fd5c63;
+}
+
+.box .la-amazon {
+  color: #ff9900;
+}
+
+.box .la-github {
+  color: #6cc644;
+}
+/*# sourceMappingURL=style.css.map */

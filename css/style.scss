@@ -1,0 +1,46 @@
+@import "variables";
+
+body{
+    margin: 0;
+}
+
+.box{
+    display: flex;
+    justify-content: center;
+    height: 50vh;
+
+    .lab{
+        margin: auto 0;
+    }
+
+    .la-twitter{
+        color: $color_twitter;
+    }
+
+    .la-facebook-f{
+        color: $color_facebook;
+    }
+
+    .la-vimeo{
+        color: $color_vimeo;
+    }
+
+    .la-airbnb{
+        color: $color_airbnb;
+    }
+
+    .la-amazon{
+        color: $color_amazon;
+    }
+
+    .la-github{
+        color: $color_github;
+
+    }
+
+    .la-js-square{
+        color: $color-js-square;
+    }
+
+
+}
